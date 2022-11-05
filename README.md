@@ -7,4 +7,4 @@
 - Add-ons
   - [ZotFile](http://zotfile.com/)
   - [jasminum](https://github.com/l0o0/jasminum)
-  - 
+  - [Zotero Pdf Translate](https://github.com/windingwind/zotero-pdf-translate)
