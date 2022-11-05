@@ -3,6 +3,7 @@
   - Tempermonkey
     - 知网下载助手
     - 中国知网CNKI硕博论文PDF下载
+    - [Scihub CRX](https://www.hezibuluo.com/158935.html)
 - [**坚果云**](https://www.jianguoyun.com/#/)
 - **Add-ons**
   - [ZotFile](http://zotfile.com/)
