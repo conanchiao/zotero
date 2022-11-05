@@ -1,10 +1,10 @@
-- Chrome extentions
+- **Chrome extentions**
   - Zotero Connector
   - Tempermonkey
     - 知网下载助手
     - 中国知网CNKI硕博论文PDF下载
-- [坚果云](https://www.jianguoyun.com/#/)
-- Add-ons
+- [**坚果云**](https://www.jianguoyun.com/#/)
+- **Add-ons**
   - [ZotFile](http://zotfile.com/)
   - [jasminum](https://github.com/l0o0/jasminum)
   - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
