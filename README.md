@@ -8,3 +8,4 @@
   - [ZotFile](http://zotfile.com/)
   - [jasminum](https://github.com/l0o0/jasminum)
   - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
+  - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub)
