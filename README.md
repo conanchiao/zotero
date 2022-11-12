@@ -11,3 +11,4 @@
   - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
   - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/Zotero%20Scihub.md)
   - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes)
+  - [Zotero Update IFsE](https://github.com/redleafnew/zotero-updateifsE)
