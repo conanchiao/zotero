@@ -5,6 +5,7 @@
     - 中国知网CNKI硕博论文PDF下载
     - [Scihub CRX](https://www.hezibuluo.com/158935.html)
 - [**坚果云**](https://www.jianguoyun.com/#/)
+- [**References**](https://github.com/conanchiao/zotero/blob/main/References.md)
 - **Add-ons**
   - [ZotFile](http://zotfile.com/)
   - [jasminum](https://github.com/l0o0/jasminum)
