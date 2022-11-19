@@ -1,8 +1,3 @@
-- `等`和`et al`混合出现，是因为文献的语言为zh和en，可以用[delitemwithatt](https://github.com/redleafnew/delitemwithatt)`.xpi`插件修改文献语言
-- 
-
----
-
 ## method 1
 
 在[JurisM](https://juris-m.github.io/styles/)点击`JM Chinese Std GB/T 7714-2005 (numeric, Chinese)`左侧图标安装
@@ -16,3 +11,8 @@ author family name - capitalize-first
 
 在[Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)仓库下载安装`002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl`
 
+---
+
+注：
+- `等`和`et al`混合出现，是因为文献的语言为zh和en，可以用[delitemwithatt](https://github.com/redleafnew/delitemwithatt)`.xpi`插件修改文献语言
+- 参考文献悬挂缩进：修改样式`书目`，宋体Roman五号，悬挂0.68cm行距20磅，应用在Bibliography上。
