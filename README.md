@@ -8,7 +8,7 @@
 - [**References**](https://github.com/conanchiao/zotero/blob/main/References.md)
 - **Add-ons**
   - [ZotFile](http://zotfile.com/)
-  - [jasminum](https://github.com/l0o0/jasminum) [*/ -Notes-*](https://github.com/conanchiao/zotero/blob/main/jasminum)
+  - [jasminum](https://github.com/l0o0/jasminum) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/jasminum)
   - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
   - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/Zotero%20Scihub.md)
   - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes)
