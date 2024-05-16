@@ -1,6 +1,6 @@
 - **Chrome extentions**
   - Zotero Connector
-  - Tempermonkey
+  - [Tempermonkey](https://www.tampermonkey.net/)
     - [Scihub CRX](https://www.scigreat.com/139999.html)
     - 中国知网CNKI硕博论文PDF下载
 - [**坚果云**](https://www.jianguoyun.com/#/)
