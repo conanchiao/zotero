@@ -1,9 +1,9 @@
 - **Chrome extentions**
   - Zotero Connector
   - Tempermonkey
-    - 知网下载助手
-    - 中国知网CNKI硕博论文PDF下载
     - [Scihub CRX](https://www.scigreat.com/139999.html)
+    - 中国知网CNKI硕博论文PDF下载
+
 - [**坚果云**](https://www.jianguoyun.com/#/)
 - [**References**](https://github.com/conanchiao/zotero/blob/main/References.md)
 - **Add-ons**
