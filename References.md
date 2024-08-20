@@ -7,9 +7,12 @@
 在[引文可视化网站](https://editor.citationstyles.org/about/)以`China National Standard GB/T 7714-2015 (numeric, 中文)`为基础修改（样式编辑器另存为）  
 author family name - capitalize-first
 
-### method 3***
+### method 3
 
 在[Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)仓库下载安装`002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl`
+
+### method 4***
+在[中文CSL样式](https://zotero-chinese.com/styles/)下载`GB/T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）`安装，并在设置，引用中选择
 
 ---
 
