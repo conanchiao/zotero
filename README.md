@@ -3,7 +3,7 @@
   - [Tempermonkey](https://www.tampermonkey.net/)
     - [Scihub CRX](https://www.scigreat.com/139999.html)
     - 中国知网CNKI硕博论文PDF下载
-- [**坚果云**](https://www.jianguoyun.com/#/)
+- [**坚果云**](https://www.jianguoyun.com/#/) [*/ -Notes-*](https://github.com/conanchiao/zotero/blob/main/jianguoyun.md)
 - [**References**](https://github.com/conanchiao/zotero/blob/main/References.md)
 - **Add-ons**
   - [ZotFile](http://zotfile.com/)
