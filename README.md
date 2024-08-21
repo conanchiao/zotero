@@ -6,8 +6,11 @@
 - [**坚果云**](https://www.jianguoyun.com/#/) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/jianguoyun.md)
 - [**References**](https://github.com/conanchiao/zotero/blob/main/References.md)
 - **Add-ons**
-  - [ZotFile](http://zotfile.com/)
+  - [Add-on market](https://github.com/syt2/zotero-addons)
   - [jasminum](https://github.com/l0o0/jasminum) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/jasminum.md)
+  - ---↓ zotero 6 ↑ zotero 7
+  - [ZotFile](http://zotfile.com/)
+
   - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
   - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/Zotero%20Scihub.md)
   - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes)
