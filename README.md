@@ -8,10 +8,11 @@
 - **Add-ons**
   - [Add-on market](https://github.com/syt2/zotero-addons)
   - [jasminum](https://github.com/l0o0/jasminum) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/jasminum.md)
+  - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes)
+  - [Ethereal Style](https://github.com/MuiseDestiny/zotero-style)
   - ↑ zotero 7 ↓ zotero 6 
   - [ZotFile](http://zotfile.com/)
   - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
   - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) [*| -Notes-*](https://github.com/conanchiao/zotero/blob/main/Zotero%20Scihub.md)
-  - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes)
   - [Zotero Update IFsE](https://github.com/redleafnew/zotero-updateifsE)
   - [Delitem](https://github.com/redleafnew/delitemwithatt)
